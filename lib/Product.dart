@@ -15,7 +15,8 @@ class Product extends StatelessWidget{
         Card(
           child:Column(
             children: <Widget>[
-              Image.asset('./images/captain.png'),
+              Image.network("https://picsum.photos/id/2/50/25"),
+              //Image.asset('./images/captain.png'),
               Text(element)
             ],
           )
