@@ -1,6 +1,6 @@
 To create flutter template
 
-$flutter create appname
+$flutter create .
 
 To run AVD in android studio (as in emulator)
 
