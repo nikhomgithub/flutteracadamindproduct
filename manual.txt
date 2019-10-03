@@ -1,8 +1,8 @@
 To create flutter template
-
+at app folder
 $flutter create .
 
-To run AVD in android studio (as in emulator)
+To run AVD Manager in android studio (as in emulator)
 
 To run in terminal at app => it will be on AVD
 $flutter run 
