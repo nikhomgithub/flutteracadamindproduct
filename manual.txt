@@ -2,5 +2,10 @@ To create flutter template
 
 $flutter create appname
 
-To run emulator use android studio (as in emulator)
+To run AVD in android studio (as in emulator)
 
+To run in terminal at app => it will be on AVD
+$flutter run 
+
+To run in mobile => plug in mobile 
+$flutter run
