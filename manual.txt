@@ -3,9 +3,14 @@ at app folder
 $flutter create .
 
 To run AVD Manager in android studio (as in emulator)
+select device such as pixel2 with app store icon (support appstore)
 
 To run in terminal at app => it will be on AVD
 $flutter run 
 
 To run in mobile => plug in mobile 
 $flutter run
+
+Folder/File in flutter
+
+.idea => for android 
