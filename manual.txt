@@ -13,4 +13,14 @@ $flutter run
 
 Folder/File in flutter
 
-.idea => for android 
+.idea folder => config for android no need to change  
+
+android folder => keep compiled code for android no need to change normally 
+
+build folder => output of sdk when develop your code no need to change 
+
+ios folder => keep compiled code for ios no need to change normally (window OS do not have this folder) 
+
+lib folder => we code here with dart file
+
+test folder => fot test purpose (basic not need now) 
