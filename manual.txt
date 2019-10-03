@@ -22,5 +22,18 @@ build folder => output of sdk when develop your code no need to change
 ios folder => keep compiled code for ios no need to change normally (window OS do not have this folder) 
 
 lib folder => we code here with dart file
+=========================================
 
 test folder => fot test purpose (basic not need now) 
+
+.metada file => for flutter to put some info
+
+.packages file => for dependency for flutter
+
+flutter_complete_guide => for dependency 
+
+pubspec.yaml => we config third party dependency, image, font here
+=================================================================
+
+pubspec.lock  => for pubspec.yaml ,no need to edit
+
