@@ -33,7 +33,16 @@ test folder => fot test purpose (basic not need now)
 flutter_complete_guide => for dependency 
 
 pubspec.yaml => we config third party dependency, image, font here
+                add image folder by
+                assets:
+                  -images/pic1.jpg
+                
 =================================================================
 
 pubspec.lock  => for pubspec.yaml ,no need to edit
+
+=========================
+
+
+
 
