@@ -55,8 +55,16 @@ Stateless Widget
     product.dart
     product => display image & text 
     
-  
+    
+============================
+life cycle
+Stateless Widget
+ input data => widget           = > renduer UI
+               Constructor(){}  => buid
 
+Statefull Widget 
+ input data => widget                          => render UI 
+               Constructor(){}, initState()    build() setState()  
 
 
 
